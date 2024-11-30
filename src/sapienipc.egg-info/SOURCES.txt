@@ -1,0 +1,14 @@
+README.md
+setup.py
+src/sapienipc/__init__.py
+src/sapienipc/ipc_ccd.py
+src/sapienipc/ipc_cg_solver.py
+src/sapienipc/ipc_component.py
+src/sapienipc/ipc_contact_filter.py
+src/sapienipc/ipc_energy.py
+src/sapienipc/ipc_system.py
+src/sapienipc.egg-info/PKG-INFO
+src/sapienipc.egg-info/SOURCES.txt
+src/sapienipc.egg-info/dependency_links.txt
+src/sapienipc.egg-info/requires.txt
+src/sapienipc.egg-info/top_level.txt

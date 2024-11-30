@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: sapienipc
+Version: 0.0.0
+Requires-Dist: numpy
+Requires-Dist: torch
+Requires-Dist: meshio
+Requires-Dist: scipy
